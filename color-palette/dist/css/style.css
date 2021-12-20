@@ -1,0 +1,254 @@
+.text {
+  font: 1rem/1.5 Arial, Helvetica, sans-serif;
+  padding: 1rem 0;
+}
+
+.text--primary {
+  color: #2980b9;
+}
+
+.text--secondary {
+  color: #7f8c8d;
+}
+
+.text--info {
+  color: #1abc9c;
+}
+
+.text--success {
+  color: #27ae60;
+}
+
+.text--warning {
+  color: #f39c12;
+}
+
+.text--danger {
+  color: #c0392b;
+}
+
+.text--black {
+  color: #222;
+}
+
+.text--white {
+  color: #efefef;
+}
+
+.background--primary {
+  background-color: #2980b9;
+}
+
+.background--secondary {
+  background-color: #7f8c8d;
+}
+
+.background--info {
+  background-color: #1abc9c;
+}
+
+.background--success {
+  background-color: #27ae60;
+}
+
+.background--warning {
+  background-color: #f39c12;
+}
+
+.background--danger {
+  background-color: #c0392b;
+}
+
+.background--lighter-primary-5 {
+  background-color: #2e8ece;
+}
+
+.background--lighter-primary-10 {
+  background-color: #409ad5;
+}
+
+.background--lighter-primary-15 {
+  background-color: #55a5d9;
+}
+
+.background--lighter-primary-20 {
+  background-color: #6ab0de;
+}
+
+.background--lighter-secondary-5 {
+  background-color: #8c9899;
+}
+
+.background--lighter-secondary-10 {
+  background-color: #9aa4a5;
+}
+
+.background--lighter-secondary-15 {
+  background-color: #a7b0b1;
+}
+
+.background--lighter-secondary-20 {
+  background-color: #b5bcbd;
+}
+
+.background--lighter-info-5 {
+  background-color: #1dd2af;
+}
+
+.background--lighter-info-10 {
+  background-color: #28e1bd;
+}
+
+.background--lighter-info-15 {
+  background-color: #3ee4c4;
+}
+
+.background--lighter-info-20 {
+  background-color: #55e7ca;
+}
+
+.background--lighter-success-5 {
+  background-color: #2cc36b;
+}
+
+.background--lighter-success-10 {
+  background-color: #36d278;
+}
+
+.background--lighter-success-15 {
+  background-color: #4bd786;
+}
+
+.background--lighter-success-20 {
+  background-color: #60db94;
+}
+
+.background--lighter-warning-5 {
+  background-color: #f4a62a;
+}
+
+.background--lighter-warning-10 {
+  background-color: #f5b043;
+}
+
+.background--lighter-warning-15 {
+  background-color: #f7ba5b;
+}
+
+.background--lighter-warning-20 {
+  background-color: #f8c573;
+}
+
+.background--lighter-danger-5 {
+  background-color: #d14233;
+}
+
+.background--lighter-danger-10 {
+  background-color: #d65548;
+}
+
+.background--lighter-danger-15 {
+  background-color: #db695d;
+}
+
+.background--lighter-danger-20 {
+  background-color: #df7c72;
+}
+
+.background--darker-primary-5 {
+  background-color: #2472a4;
+}
+
+.background--darker-primary-10 {
+  background-color: #20638f;
+}
+
+.background--darker-primary-15 {
+  background-color: #1b557a;
+}
+
+.background--darker-primary-20 {
+  background-color: #164666;
+}
+
+.background--darker-secondary-5 {
+  background-color: #727f80;
+}
+
+.background--darker-secondary-10 {
+  background-color: #667273;
+}
+
+.background--darker-secondary-15 {
+  background-color: #5a6465;
+}
+
+.background--darker-secondary-20 {
+  background-color: #4e5758;
+}
+
+.background--darker-info-5 {
+  background-color: #17a689;
+}
+
+.background--darker-info-10 {
+  background-color: #148f77;
+}
+
+.background--darker-info-15 {
+  background-color: #117964;
+}
+
+.background--darker-info-20 {
+  background-color: #0e6252;
+}
+
+.background--darker-success-5 {
+  background-color: #229955;
+}
+
+.background--darker-success-10 {
+  background-color: #1e8449;
+}
+
+.background--darker-success-15 {
+  background-color: #19703e;
+}
+
+.background--darker-success-20 {
+  background-color: #145b32;
+}
+
+.background--darker-warning-5 {
+  background-color: #e08e0b;
+}
+
+.background--darker-warning-10 {
+  background-color: #c87f0a;
+}
+
+.background--darker-warning-15 {
+  background-color: #b06f09;
+}
+
+.background--darker-warning-20 {
+  background-color: #976008;
+}
+
+.background--darker-danger-5 {
+  background-color: #ab3326;
+}
+
+.background--darker-danger-10 {
+  background-color: #962d22;
+}
+
+.background--darker-danger-15 {
+  background-color: #81261d;
+}
+
+.background--darker-danger-20 {
+  background-color: #6d2018;
+}
+
+/*# sourceMappingURL=style.css.map */

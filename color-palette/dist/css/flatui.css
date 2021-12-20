@@ -1,0 +1,814 @@
+.text {
+  font: 1rem/1.5 Arial, Helvetica, sans-serif;
+  padding: 1rem 0;
+}
+
+.text--turqoise {
+  color: #1abc9c;
+}
+
+.text--emerald {
+  color: #2ecc71;
+}
+
+.text--peterriver {
+  color: #3498db;
+}
+
+.text--amethist {
+  color: #9b59b6;
+}
+
+.text--wetasphalt {
+  color: #34495e;
+}
+
+.text--greensea {
+  color: #16a085;
+}
+
+.text--nephritis {
+  color: #27ae60;
+}
+
+.text--belizehole {
+  color: #2980b9;
+}
+
+.text--wisteria {
+  color: #8e44ad;
+}
+
+.text--midnightblue {
+  color: #2c3e50;
+}
+
+.text--sunflower {
+  color: #f1c40f;
+}
+
+.text--carrot {
+  color: #e67e22;
+}
+
+.text--alizarin {
+  color: #e74c3c;
+}
+
+.text--clouds {
+  color: #ecf0f1;
+}
+
+.text--concrete {
+  color: #95a5a6;
+}
+
+.text--orange {
+  color: #f39c12;
+}
+
+.text--pumpkin {
+  color: #d35400;
+}
+
+.text--pomegranate {
+  color: #c0392b;
+}
+
+.text--silver {
+  color: #bdc3c7;
+}
+
+.text--asbestos {
+  color: #7f8c8d;
+}
+
+.text--black {
+  color: #222;
+}
+
+.text--white {
+  color: #efefef;
+}
+
+.background--turqoise {
+  background-color: #1abc9c;
+}
+
+.background--emerald {
+  background-color: #2ecc71;
+}
+
+.background--peterriver {
+  background-color: #3498db;
+}
+
+.background--amethist {
+  background-color: #9b59b6;
+}
+
+.background--wetasphalt {
+  background-color: #34495e;
+}
+
+.background--greensea {
+  background-color: #16a085;
+}
+
+.background--nephritis {
+  background-color: #27ae60;
+}
+
+.background--belizehole {
+  background-color: #2980b9;
+}
+
+.background--wisteria {
+  background-color: #8e44ad;
+}
+
+.background--midnightblue {
+  background-color: #2c3e50;
+}
+
+.background--sunflower {
+  background-color: #f1c40f;
+}
+
+.background--carrot {
+  background-color: #e67e22;
+}
+
+.background--alizarin {
+  background-color: #e74c3c;
+}
+
+.background--clouds {
+  background-color: #ecf0f1;
+}
+
+.background--concrete {
+  background-color: #95a5a6;
+}
+
+.background--orange {
+  background-color: #f39c12;
+}
+
+.background--pumpkin {
+  background-color: #d35400;
+}
+
+.background--pomegranate {
+  background-color: #c0392b;
+}
+
+.background--silver {
+  background-color: #bdc3c7;
+}
+
+.background--asbestos {
+  background-color: #7f8c8d;
+}
+
+.background--lighter-turqoise-5 {
+  background-color: #1dd2af;
+}
+
+.background--lighter-turqoise-10 {
+  background-color: #28e1bd;
+}
+
+.background--lighter-turqoise-15 {
+  background-color: #3ee4c4;
+}
+
+.background--lighter-turqoise-20 {
+  background-color: #55e7ca;
+}
+
+.background--lighter-emerald-5 {
+  background-color: #40d47e;
+}
+
+.background--lighter-emerald-10 {
+  background-color: #54d98c;
+}
+
+.background--lighter-emerald-15 {
+  background-color: #69dd9a;
+}
+
+.background--lighter-emerald-20 {
+  background-color: #7ee2a8;
+}
+
+.background--lighter-peterriver-5 {
+  background-color: #4aa3df;
+}
+
+.background--lighter-peterriver-10 {
+  background-color: #5faee3;
+}
+
+.background--lighter-peterriver-15 {
+  background-color: #75b9e7;
+}
+
+.background--lighter-peterriver-20 {
+  background-color: #8bc4ea;
+}
+
+.background--lighter-amethist-5 {
+  background-color: #a66bbe;
+}
+
+.background--lighter-amethist-10 {
+  background-color: #b07cc6;
+}
+
+.background--lighter-amethist-15 {
+  background-color: #bb8ecd;
+}
+
+.background--lighter-amethist-20 {
+  background-color: #c6a0d5;
+}
+
+.background--lighter-wetasphalt-5 {
+  background-color: #3d566e;
+}
+
+.background--lighter-wetasphalt-10 {
+  background-color: #46637f;
+}
+
+.background--lighter-wetasphalt-15 {
+  background-color: #4f6f8f;
+}
+
+.background--lighter-wetasphalt-20 {
+  background-color: #587ca0;
+}
+
+.background--lighter-greensea-5 {
+  background-color: #19b698;
+}
+
+.background--lighter-greensea-10 {
+  background-color: #1ccdaa;
+}
+
+.background--lighter-greensea-15 {
+  background-color: #22e1bb;
+}
+
+.background--lighter-greensea-20 {
+  background-color: #38e4c2;
+}
+
+.background--lighter-nephritis-5 {
+  background-color: #2cc36b;
+}
+
+.background--lighter-nephritis-10 {
+  background-color: #36d278;
+}
+
+.background--lighter-nephritis-15 {
+  background-color: #4bd786;
+}
+
+.background--lighter-nephritis-20 {
+  background-color: #60db94;
+}
+
+.background--lighter-belizehole-5 {
+  background-color: #2e8ece;
+}
+
+.background--lighter-belizehole-10 {
+  background-color: #409ad5;
+}
+
+.background--lighter-belizehole-15 {
+  background-color: #55a5d9;
+}
+
+.background--lighter-belizehole-20 {
+  background-color: #6ab0de;
+}
+
+.background--lighter-wisteria-5 {
+  background-color: #9b50ba;
+}
+
+.background--lighter-wisteria-10 {
+  background-color: #a563c1;
+}
+
+.background--lighter-wisteria-15 {
+  background-color: #b075c9;
+}
+
+.background--lighter-wisteria-20 {
+  background-color: #ba87d0;
+}
+
+.background--lighter-midnightblue-5 {
+  background-color: #354b60;
+}
+
+.background--lighter-midnightblue-10 {
+  background-color: #3e5871;
+}
+
+.background--lighter-midnightblue-15 {
+  background-color: #476481;
+}
+
+.background--lighter-midnightblue-20 {
+  background-color: #507192;
+}
+
+.background--lighter-sunflower-5 {
+  background-color: #f2ca27;
+}
+
+.background--lighter-sunflower-10 {
+  background-color: #f4d03f;
+}
+
+.background--lighter-sunflower-15 {
+  background-color: #f5d657;
+}
+
+.background--lighter-sunflower-20 {
+  background-color: #f7dc6f;
+}
+
+.background--lighter-carrot-5 {
+  background-color: #e98b39;
+}
+
+.background--lighter-carrot-10 {
+  background-color: #eb9950;
+}
+
+.background--lighter-carrot-15 {
+  background-color: #eea667;
+}
+
+.background--lighter-carrot-20 {
+  background-color: #f0b37e;
+}
+
+.background--lighter-alizarin-5 {
+  background-color: #ea6153;
+}
+
+.background--lighter-alizarin-10 {
+  background-color: #ed7669;
+}
+
+.background--lighter-alizarin-15 {
+  background-color: #ef8b80;
+}
+
+.background--lighter-alizarin-20 {
+  background-color: #f29f97;
+}
+
+.background--lighter-clouds-5 {
+  background-color: #fbfcfc;
+}
+
+.background--lighter-clouds-10 {
+  background-color: white;
+}
+
+.background--lighter-clouds-15 {
+  background-color: white;
+}
+
+.background--lighter-clouds-20 {
+  background-color: white;
+}
+
+.background--lighter-concrete-5 {
+  background-color: #a3b1b2;
+}
+
+.background--lighter-concrete-10 {
+  background-color: #b1bdbd;
+}
+
+.background--lighter-concrete-15 {
+  background-color: #bfc8c9;
+}
+
+.background--lighter-concrete-20 {
+  background-color: #ccd4d5;
+}
+
+.background--lighter-orange-5 {
+  background-color: #f4a62a;
+}
+
+.background--lighter-orange-10 {
+  background-color: #f5b043;
+}
+
+.background--lighter-orange-15 {
+  background-color: #f7ba5b;
+}
+
+.background--lighter-orange-20 {
+  background-color: #f8c573;
+}
+
+.background--lighter-pumpkin-5 {
+  background-color: #ed5e00;
+}
+
+.background--lighter-pumpkin-10 {
+  background-color: #ff6a07;
+}
+
+.background--lighter-pumpkin-15 {
+  background-color: #ff7921;
+}
+
+.background--lighter-pumpkin-20 {
+  background-color: #ff883a;
+}
+
+.background--lighter-pomegranate-5 {
+  background-color: #d14233;
+}
+
+.background--lighter-pomegranate-10 {
+  background-color: #d65548;
+}
+
+.background--lighter-pomegranate-15 {
+  background-color: #db695d;
+}
+
+.background--lighter-pomegranate-20 {
+  background-color: #df7c72;
+}
+
+.background--lighter-silver-5 {
+  background-color: #cbd0d3;
+}
+
+.background--lighter-silver-10 {
+  background-color: #d9dcde;
+}
+
+.background--lighter-silver-15 {
+  background-color: #e6e9ea;
+}
+
+.background--lighter-silver-20 {
+  background-color: #f4f5f6;
+}
+
+.background--lighter-asbestos-5 {
+  background-color: #8c9899;
+}
+
+.background--lighter-asbestos-10 {
+  background-color: #9aa4a5;
+}
+
+.background--lighter-asbestos-15 {
+  background-color: #a7b0b1;
+}
+
+.background--lighter-asbestos-20 {
+  background-color: #b5bcbd;
+}
+
+.background--darker-turqoise-5 {
+  background-color: #17a689;
+}
+
+.background--darker-turqoise-10 {
+  background-color: #148f77;
+}
+
+.background--darker-turqoise-15 {
+  background-color: #117964;
+}
+
+.background--darker-turqoise-20 {
+  background-color: #0e6252;
+}
+
+.background--darker-emerald-5 {
+  background-color: #29b765;
+}
+
+.background--darker-emerald-10 {
+  background-color: #25a25a;
+}
+
+.background--darker-emerald-15 {
+  background-color: #208e4e;
+}
+
+.background--darker-emerald-20 {
+  background-color: #1b7943;
+}
+
+.background--darker-peterriver-5 {
+  background-color: #258cd1;
+}
+
+.background--darker-peterriver-10 {
+  background-color: #217dbb;
+}
+
+.background--darker-peterriver-15 {
+  background-color: #1d6fa5;
+}
+
+.background--darker-peterriver-20 {
+  background-color: #196090;
+}
+
+.background--darker-amethist-5 {
+  background-color: #8f4bab;
+}
+
+.background--darker-amethist-10 {
+  background-color: #804399;
+}
+
+.background--darker-amethist-15 {
+  background-color: #713b87;
+}
+
+.background--darker-amethist-20 {
+  background-color: #623475;
+}
+
+.background--darker-wetasphalt-5 {
+  background-color: #2b3c4e;
+}
+
+.background--darker-wetasphalt-10 {
+  background-color: #22303d;
+}
+
+.background--darker-wetasphalt-15 {
+  background-color: #19232d;
+}
+
+.background--darker-wetasphalt-20 {
+  background-color: #10161c;
+}
+
+.background--darker-greensea-5 {
+  background-color: #138a72;
+}
+
+.background--darker-greensea-10 {
+  background-color: #107360;
+}
+
+.background--darker-greensea-15 {
+  background-color: #0d5d4d;
+}
+
+.background--darker-greensea-20 {
+  background-color: #0a463a;
+}
+
+.background--darker-nephritis-5 {
+  background-color: #229955;
+}
+
+.background--darker-nephritis-10 {
+  background-color: #1e8449;
+}
+
+.background--darker-nephritis-15 {
+  background-color: #19703e;
+}
+
+.background--darker-nephritis-20 {
+  background-color: #145b32;
+}
+
+.background--darker-belizehole-5 {
+  background-color: #2472a4;
+}
+
+.background--darker-belizehole-10 {
+  background-color: #20638f;
+}
+
+.background--darker-belizehole-15 {
+  background-color: #1b557a;
+}
+
+.background--darker-belizehole-20 {
+  background-color: #164666;
+}
+
+.background--darker-wisteria-5 {
+  background-color: #7f3d9b;
+}
+
+.background--darker-wisteria-10 {
+  background-color: #703688;
+}
+
+.background--darker-wisteria-15 {
+  background-color: #612e76;
+}
+
+.background--darker-wisteria-20 {
+  background-color: #522764;
+}
+
+.background--darker-midnightblue-5 {
+  background-color: #233140;
+}
+
+.background--darker-midnightblue-10 {
+  background-color: #1a252f;
+}
+
+.background--darker-midnightblue-15 {
+  background-color: #11181f;
+}
+
+.background--darker-midnightblue-20 {
+  background-color: #080b0e;
+}
+
+.background--darker-sunflower-5 {
+  background-color: #dab10d;
+}
+
+.background--darker-sunflower-10 {
+  background-color: #c29d0b;
+}
+
+.background--darker-sunflower-15 {
+  background-color: #aa8a0a;
+}
+
+.background--darker-sunflower-20 {
+  background-color: #927608;
+}
+
+.background--darker-carrot-5 {
+  background-color: #d67118;
+}
+
+.background--darker-carrot-10 {
+  background-color: #bf6516;
+}
+
+.background--darker-carrot-15 {
+  background-color: #a85913;
+}
+
+.background--darker-carrot-20 {
+  background-color: #924d10;
+}
+
+.background--darker-alizarin-5 {
+  background-color: #e43725;
+}
+
+.background--darker-alizarin-10 {
+  background-color: #d62c1a;
+}
+
+.background--darker-alizarin-15 {
+  background-color: #bf2718;
+}
+
+.background--darker-alizarin-20 {
+  background-color: #a82315;
+}
+
+.background--darker-clouds-5 {
+  background-color: #dde4e6;
+}
+
+.background--darker-clouds-10 {
+  background-color: #cfd9db;
+}
+
+.background--darker-clouds-15 {
+  background-color: #c0cdd1;
+}
+
+.background--darker-clouds-20 {
+  background-color: #b1c2c6;
+}
+
+.background--darker-concrete-5 {
+  background-color: #87999a;
+}
+
+.background--darker-concrete-10 {
+  background-color: #798d8f;
+}
+
+.background--darker-concrete-15 {
+  background-color: #6d8082;
+}
+
+.background--darker-concrete-20 {
+  background-color: #617374;
+}
+
+.background--darker-orange-5 {
+  background-color: #e08e0b;
+}
+
+.background--darker-orange-10 {
+  background-color: #c87f0a;
+}
+
+.background--darker-orange-15 {
+  background-color: #b06f09;
+}
+
+.background--darker-orange-20 {
+  background-color: #976008;
+}
+
+.background--darker-pumpkin-5 {
+  background-color: #ba4a00;
+}
+
+.background--darker-pumpkin-10 {
+  background-color: #a04000;
+}
+
+.background--darker-pumpkin-15 {
+  background-color: #873600;
+}
+
+.background--darker-pumpkin-20 {
+  background-color: #6d2b00;
+}
+
+.background--darker-pomegranate-5 {
+  background-color: #ab3326;
+}
+
+.background--darker-pomegranate-10 {
+  background-color: #962d22;
+}
+
+.background--darker-pomegranate-15 {
+  background-color: #81261d;
+}
+
+.background--darker-pomegranate-20 {
+  background-color: #6d2018;
+}
+
+.background--darker-silver-5 {
+  background-color: #afb6bb;
+}
+
+.background--darker-silver-10 {
+  background-color: #a1aab0;
+}
+
+.background--darker-silver-15 {
+  background-color: #949da4;
+}
+
+.background--darker-silver-20 {
+  background-color: #869198;
+}
+
+.background--darker-asbestos-5 {
+  background-color: #727f80;
+}
+
+.background--darker-asbestos-10 {
+  background-color: #667273;
+}
+
+.background--darker-asbestos-15 {
+  background-color: #5a6465;
+}
+
+.background--darker-asbestos-20 {
+  background-color: #4e5758;
+}
+
+/*# sourceMappingURL=flatui.css.map */
